@@ -1,0 +1,11 @@
+cache-file ~/.config/newsboat/cache.db
+notify-beep no
+
+max-items 100
+browser links
+show-read-feeds no
+
+bind-key k up
+bind-key j down
+
+include ~/.config/newsboat/colors

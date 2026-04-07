@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/tloftus/Documents/personal/learning-code/adventofcode-go/aocg/2015'
+let g:netrw_dirhist_7='/home/tloftus/Documents/personal/projects'
+let g:netrw_dirhist_6='/home/tloftus/Documents/code/contacts.js'
+let g:netrw_dirhist_5='/home/tloftus/.config/nvim/lua/n3s0'
+let g:netrw_dirhist_4='/home/tloftus/.config/nvim/lua'
+let g:netrw_dirhist_3='/home/tloftus/.config/nvim'
+let g:netrw_dirhist_2='/home/tloftus/.oh-my-zsh'
+let g:netrw_dirhist_1='/etc/openvpn/client'
